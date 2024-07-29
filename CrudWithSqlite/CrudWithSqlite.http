@@ -1,0 +1,6 @@
+@CrudWithSqlite_HostAddress = http://localhost:5042
+
+GET {{CrudWithSqlite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
